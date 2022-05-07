@@ -13,7 +13,7 @@ const BANNER_DATA = {
   DECRIPTION:
     "Bearbeite jetzt deinen GitHub Actions-Workflow mit  unserem graphischen GitHub Actions Editor!",
   TUTORIAL_URL:
-    "https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/programmatic/google-digital-academy/",
+    "https://www.youtube.com",
   WATCH_TUTORIAL: "Zum Tutorial"
 };
 const SERVICE_DATA = {
