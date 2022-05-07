@@ -11,18 +11,13 @@ Dieses Projekt beinhaltet den Code für die Erstellung der Landingpage für das 
  git@github.com:Cliff99999/Graphischer-Editor-f-r-GitHub-Pipelines---Landingpage.git
 
 ```
-2.	Installiere NPM Pakete: 
 
-```bash
-npm install
-```
-
-3.	Starte Server 
+2.	Starte Server 
 
 ```bash
 trex run start
 ```
-4.	Server Adresse
+3.	Server Adresse
 
 ```bash
 Local: http://localhost:3000 
@@ -31,10 +26,10 @@ On Your Network: http://141.72.131.113:3000
 
 ## Lessons Learned
 
-Mein erstes Learning war ein Klassiker, den jeder Programmierer kennt. Wenn es nicht läuft, dann durchatmen. Manchmal auch 10 oder 20 mal und dir Hilfe holen. Bei mir fing der  Stress bereits mit der Installation von Deno und der darauffolgenden Ausführung  an. Das learning habe ich  in meinem Install Deno Tutorial auch nochmal dokumentiert.
-Danach wollte  mein Server einfach nicht starten, bis ich statt „run dev“ als Befehl „trex tun start“ genutzt habe. Mein persönlicher Gamechanger.
+Mein erstes Learning war ein Klassiker, den jeder Programmierer kennt. Wenn es nicht läuft, dann durchatmen. Manchmal auch 10 oder 20 mal und dir Hilfe holen. Bei mir fing der  Stress bereits mit der Installation von Deno und der darauffolgenden Ausführung  an. Das learning habe ich in meinem Install Deno Tutorial auch nochmal dokumentiert.
+Danach wollte mein Server einfach nicht starten, bis ich statt „run dev“ als Befehl „trex tun start“ genutzt habe. Mein persönlicher Gamechanger.
 
-Als es dann an das Coden ging muss ich ganz ehrlich sagen, dass mich eines erstmal gestört hat. Die Syntax. Überwiegend sah Svelte Anfangs so aus, als ob es kommentierter Code sein sollte. Als ich dann aber verstanden habe, dass ich die Zeichen im HTML-Code schreiben muss und die geschweiften Klammern um in Java Scripts zu springen, war konnte ich endlich in den Flow kommen. 
+Als es dann an das Coden ging muss ich ganz ehrlich sagen, dass mich eines erstmal gestört hat. Die Syntax. Überwiegend sah Svelte Anfangs so aus, als ob es kommentierter Code sein sollte. Als ich dann aber verstanden habe, dass ich die Zeichen im HTML-Code schreiben muss und die geschweiften Klammern um in Java Scripts zu springen, konnte ich endlich in den Flow kommen. 
 
 Ich hatte Anfangs häufig Schwierigkeiten dabei Werte und Klassen zu speichern und wiederzuverwenden. Jetzt wo ich den Speichermechanismus von Svelte durchblickt habe muss ich sagen, dass er sehr einfach und leistungsstark ist. Eigentlich kann man damit so ziemlich alles machen.
 
